@@ -17,6 +17,8 @@
 - SQLite
 - pandas
 - matplotlib
+- HTML
+- CSS
 - Git & GitHub
 
 ---
